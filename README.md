@@ -59,7 +59,7 @@ Production-grade conversational AI platform powered by Google Gemini API.
 
 ## 🎥 MeetFlow — Real-Time Video Conferencing
 
-Zoom-inspired WebRTC application.
+ WebRTC application.
 
 **Highlights**
 
@@ -80,7 +80,7 @@ Zoom-inspired WebRTC application.
 
 ## 🏡 Roamly — Travel & Accommodation Platform
 
-Airbnb-inspired booking platform.
+ Booking platform.
 
 **Highlights**
 

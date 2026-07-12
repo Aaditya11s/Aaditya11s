@@ -1,29 +1,16 @@
+# Hi 👋, I'm Aaditya Singh
 
 <div align="center">
 
-# Hi 👋, I'm Aaditya Singh
+# 🚀 Full-Stack Software Engineer | MERN Stack Developer | AI Enthusiast
 
-### 🚀 Full-Stack Software Engineer | MERN Stack Developer | AI Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Full-Stack+Software+Engineer;MERN+Stack+Developer;AI+%7C+WebRTC+%7C+Node.js+%7C+React;Building+Production-Grade+Applications;Always+Learning+Something+New!" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;Building+Production-Grade+Applications;MERN+Stack+Developer;WebRTC+%7C+AI+%7C+Node.js+%7C+React;Always+Learning+Something+New!" />
-
-<br>
-
-<a href="https://github.com/Aaditya11s">
-<img src="https://img.shields.io/github/followers/Aaditya11s?label=Followers&logo=github&style=for-the-badge">
-</a>
-
-<a href="https://github.com/Aaditya11s">
-<img src="https://img.shields.io/github/stars/Aaditya11s?affiliations=OWNER&style=for-the-badge">
-</a>
-
-<a href="mailto:aaditya11124@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://linkedin.com/in/aaditya-singh-ab9912293">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<p>
+<a href="https://github.com/Aaditya11s"><img src="https://img.shields.io/github/followers/Aaditya11s?style=for-the-badge&logo=github&color=181717"></a>
+<a href="https://linkedin.com/in/aaditya-singh-ab9912293"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:aaditya11124@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 </div>
 
@@ -31,66 +18,18 @@
 
 # 💫 About Me
 
-🎓 B.Tech Computer Science & Engineering Student (2023–2027)
-
-💻 Passionate about building scalable Full-Stack applications
-
-🤖 Former **LLM Post Training Intern @ Ethara AI**
-
-🚀 Built and deployed **Production-Grade MERN Applications**
-
-🌱 Currently sharpening **Data Structures & Algorithms**
-
-⚡ Interested in
-
-- Full Stack Development
-- Backend Engineering
-- Artificial Intelligence
-- System Design
-- Real-Time Applications
+- 🎓 B.Tech CSE (2023–2027)
+- 🤖 Former **LLM Post Training Intern @ Ethara AI**
+- 🚀 Built **Promptify**, **MeetFlow**, and **Roamly**
+- 💻 Passionate about Backend, AI and Real-Time Applications
+- 🌱 Currently mastering **DSA**, **System Design**, and scalable backend engineering.
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css"/>
-
-</p>
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,materialui"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,vite,nodejs,express,mongodb,mysql,git,github,postman,vscode,bootstrap,materialui" />
 </p>
 
 ---
@@ -99,148 +38,104 @@
 
 ## 🤖 Promptify — AI Chat Platform
 
-> Production-grade conversational AI platform powered by **Google Gemini API**
+Production-grade conversational AI platform powered by Google Gemini API.
 
-### ✨ Features
+**Highlights**
 
-- Multi-session AI Chats
-- Persistent Chat History
-- Markdown Rendering
-- Syntax Highlighting
-- Modern Responsive UI
+- Multi-session AI chats
+- Persistent conversation history
+- Markdown + syntax highlighting
+- Responsive UI
 
-### 🛠 Tech Stack
+**Tech**
 
-`React` `Vite` `Node.js` `Express` `MongoDB` `Gemini API`
+`React` `Node.js` `Express` `MongoDB` `Gemini API`
 
-### 🔗 Links
+🟢 **Live:** https://promptify-sdog.onrender.com/
 
-**GitHub:** https://github.com/Aaditya11s/Promptify
-
-**Live Demo:** https://YOUR_PROMPTIFY_LINK
+📂 **Repo:** https://github.com/Aaditya11s/Promptify
 
 ---
 
-## 🎥 MeetFlow — Video Conferencing Platform
+## 🎥 MeetFlow — Real-Time Video Conferencing
 
-> Real-time video conferencing platform inspired by Zoom & Google Meet
+Zoom-inspired WebRTC application.
 
-### ✨ Features
+**Highlights**
 
-- HD Video Calling
-- Screen Sharing
-- Group Chat
-- Camera & Mic Controls
-- Authentication
-- Meeting History
+- Video calls
+- Screen sharing
+- Group chat
+- Secure authentication
 
-### 🛠 Tech Stack
+**Tech**
 
-`React` `WebRTC` `Socket.io` `Node.js` `MongoDB`
+`React` `WebRTC` `Socket.io` `Express` `MongoDB`
 
-### 🔗 Links
+🟢 **Live:** https://meetflow-1-okwi.onrender.com/
 
-**GitHub:** https://github.com/Aaditya11s/MeetFlow
-
-**Live Demo:** https://YOUR_MEETFLOW_LINK
+📂 **Repo:** https://github.com/Aaditya11s/MeetFlow
 
 ---
 
 ## 🏡 Roamly — Travel & Accommodation Platform
 
-> Airbnb-inspired property listing platform
+Airbnb-inspired booking platform.
 
-### ✨ Features
+**Highlights**
 
-- Property Listings
+- CRUD Listings
 - Authentication
+- Cloudinary uploads
+- Map integration
 - Reviews
-- Image Uploads
-- Maps Integration
-- Search & Filters
 
-### 🛠 Tech Stack
+**Tech**
 
-`Node.js` `Express` `MongoDB` `Passport.js` `Cloudinary`
+`Node.js` `Express` `MongoDB` `Passport.js`
 
-### 🔗 Links
+🟢 **Live:** https://project-1-jw3b.onrender.com/
 
-**GitHub:** https://github.com/Aaditya11s/Roamly
-
-**Live Demo:** https://YOUR_ROAMLY_LINK
+📂 **Repo:** https://github.com/Aaditya11s/Roamly
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Dashboard
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aaditya11s&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya11s&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aaditya11s&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya11s&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Aaditya11s&theme=tokyonight&hide_border=true"/>
-
 </p>
-
----
-
-# 📊 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya11s&theme=tokyo-night"/>
-
 </p>
 
----
-
-# 💻 Coding Profiles
-
-<p>
-
-<a href="https://github.com/Aaditya11s">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-
-</a>
-
-<!-- Add LeetCode when available -->
-<!-- Add Codeforces when available -->
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Aaditya11s&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
 # 🎯 Current Focus
 
-✅ Advanced MERN Stack
-
-✅ Data Structures & Algorithms
-
-✅ Backend Development
-
-✅ System Design
-
-✅ Scalable APIs
+- ⚡ Advanced MERN Stack
+- 🧠 Data Structures & Algorithms
+- 🏗️ Backend Architecture
+- 🤖 AI-powered Applications
+- 🌐 System Design
 
 ---
 
-# 📫 Connect With Me
+# 📫 Connect
 
-📧 aaditya11124@gmail.com
-
-💼 https://linkedin.com/in/aaditya-singh-ab9912293
-
-🌐 https://YOUR_PORTFOLIO_LINK
+- 📧 aaditya11124@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/aaditya-singh-ab9912293
+- 🐙 GitHub: https://github.com/Aaditya11s
 
 ---
 
@@ -248,9 +143,7 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-_"First, solve the problem. Then, write the code."_ — John Johnson
+*"Code. Learn. Build. Repeat."*
 
 </div>
-
-
 
